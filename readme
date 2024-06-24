@@ -1,0 +1,19 @@
+
+
+
+1. Inicia sesión en OpenAI
+Ve a la página de OpenAI.
+Haz clic en "Log In" en la esquina superior derecha.
+Inicia sesión con tus credenciales de OpenAI.
+2. Accede a la Sección de API
+Una vez que hayas iniciado sesión, ve a tu Panel de Control de OpenAI.
+3. Generar una Nueva API Key
+En el Panel de Control, haz clic en "Create new secret key".
+Asigna un nombre a tu clave para identificarla fácilmente.
+Haz clic en "Create secret key".
+4. Copia la API Key
+Se generará una nueva clave secreta.
+Cópiala y guárdala en un lugar seguro, ya que no podrás verla de nuevo desde el Panel de Control.
+Esta clave será utilizada para autenticar tus solicitudes a la API de OpenAI.
+5. Uso de la API Key en tu Proyecto
+Utiliza la clave generada para autenticar tus solicitudes a la API en tu archivo PHP
